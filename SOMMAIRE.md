@@ -3,82 +3,82 @@
 
 ## 1. Introduction à FreePascal et Lazarus
 
-1 Histoire et philosophie du projet FreePascal
-2 L'écosystème Lazarus et son positionnement
-3 Différences avec Delphi et avantages du libre
-4 Installation multi-plateforme
-- 4.1 Installation sur Windows (installer, chocolatey, portable)
-- 4.2 Installation sur Ubuntu (apt, snap, compilation source)
-- 4.3 Installation sur macOS et BSD
-5 Configuration avancée du compilateur FPC
-6 Modes de compatibilité (Turbo Pascal, Delphi, ObjFPC)
-7 Architecture du compilateur et processus de compilation
-8 Configuration d'environnements de développement dual-boot/VM
-9 Contribution aux projets open source FreePascal/Lazarus
+- 1.1 Histoire et philosophie du projet FreePascal
+- 1.2 L'écosystème Lazarus et son positionnement
+- 1.3 Différences avec Delphi et avantages du libre
+- 1.4 Installation multi-plateforme
+  - 1.4.1 Installation sur Windows (installer, chocolatey, portable)
+  - 1.4.2 Installation sur Ubuntu (apt, snap, compilation source)
+  - 1.4.3 Installation sur macOS et BSD
+- 1.5 Configuration avancée du compilateur FPC
+- 1.6 Modes de compatibilité (Turbo Pascal, Delphi, ObjFPC)
+- 1.7 Architecture du compilateur et processus de compilation
+- 1.8 Configuration d'environnements de développement dual-boot/VM
+- 1.9 Contribution aux projets open source FreePascal/Lazarus
 
 ## 2. Maîtrise de l'IDE Lazarus
 
-1 Architecture modulaire de l'IDE
-2 Configuration et personnalisation avancée
-3 Création et gestion de packages
-4 Outils de refactoring intégrés
-5 Débogueur GDB et alternatives
-- 5.1 Configuration GDB sur Windows
-- 5.2 Configuration GDB sur Ubuntu
-- 5.3 Alternatives (LLDB, FpDebug)
-6 Intégration avec les systèmes de contrôle de version
-7 Développement de plugins IDE
-8 Cross-compilation Windows↔Linux
-9 Profils de projet et configurations multiples
-10 Automatisation avec lazbuild
-11 Synchronisation de projets entre OS
+2.1 Architecture modulaire de l'IDE
+2.2 Configuration et personnalisation avancée
+2.3 Création et gestion de packages
+2.4 Outils de refactoring intégrés
+2.5 Débogueur GDB et alternatives
+  - 2.5.1 Configuration GDB sur Windows
+  - 2.5.2 Configuration GDB sur Ubuntu
+  - 2.5.3 Alternatives (LLDB, FpDebug)
+2.6 Intégration avec les systèmes de contrôle de version
+2.7 Développement de plugins IDE
+2.8 Cross-compilation Windows↔Linux
+2.9 Profils de projet et configurations multiples
+2.10 Automatisation avec lazbuild
+2.11 Synchronisation de projets entre OS
 
 ## 3. Langage Object Pascal Avancé
 
-1 Spécificités FreePascal vs Delphi
-2 Généricité avancée et spécialisation
-3 Types avancés et RTTI (Run-Time Type Information)
-4 Programmation méta avec les attributs
-5 Gestion mémoire et comptage de références
-6 Inline assembler multi-architecture (x86, x64, ARM)
-7 Helpers de classe et de record
-8 Opérateurs avancés et surcharge
-9 Anonymous methods et closures
-10 Coroutines et programmation asynchrone
-11 Optimisations du compilateur
-12 Directives de compilation conditionnelle multi-OS
+3.1 Spécificités FreePascal vs Delphi
+3.2 Généricité avancée et spécialisation
+3.3 Types avancés et RTTI (Run-Time Type Information)
+3.4 Programmation méta avec les attributs
+3.5 Gestion mémoire et comptage de références
+3.6 Inline assembler multi-architecture (x86, x64, ARM)
+3.7 Helpers de classe et de record
+3.8 Opérateurs avancés et surcharge
+3.9 Anonymous methods et closures
+3.10 Coroutines et programmation asynchrone
+3.11 Optimisations du compilateur
+3.12 Directives de compilation conditionnelle multi-OS
 
 ## 4. Framework LCL (Lazarus Component Library)
 
-1 Architecture de la LCL et widgetsets
-2 Composants visuels fondamentaux
-3 Composants non-visuels et services
-4 Création de composants personnalisés portables
-5 Propriétés publiées et streaming
-6 Éditeurs de propriétés personnalisés
-7 Composants composites et frames
-8 Gestion avancée des événements
-9 Thèmes et apparence personnalisée
-- 9.1 Thèmes Windows (styles visuels)
-- 9.2 Thèmes GTK/Qt sur Ubuntu
-10 Accessibilité et support des lecteurs d'écran
-11 High-DPI et mise à l'échelle
-12 Gestion des différences d'interface OS
+4.1 Architecture de la LCL et widgetsets
+4.2 Composants visuels fondamentaux
+4.3 Composants non-visuels et services
+4.4 Création de composants personnalisés portables
+4.5 Propriétés publiées et streaming
+4.6 Éditeurs de propriétés personnalisés
+4.7 Composants composites et frames
+4.8 Gestion avancée des événements
+4.9 Thèmes et apparence personnalisée
+  - 4.9.1 Thèmes Windows (styles visuels)
+  - 4.9.2 Thèmes GTK/Qt sur Ubuntu
+4.10 Accessibilité et support des lecteurs d'écran
+4.11 High-DPI et mise à l'échelle
+4.12 Gestion des différences d'interface OS
 
 ## 5. Développement Multi-plateforme Approfondi
 
-1 Abstraction des API systèmes
-2 Widgetsets détaillés
-- 2.1 Win32/Win64 pour Windows
-- 2.2 GTK2/GTK3 pour Ubuntu/Linux
-- 2.3 Qt5 comme alternative universelle
-- 2.4 Custom Drawn pour contrôle total
-3 Gestion des différences plateforme
-- 3.1 Chemins et séparateurs
-- 3.2 Fins de ligne (CRLF vs LF)
-- 3.3 Encodages par défaut
-- 3.4 Sensibilité à la casse
-4 Compilation conditionnelle avancée
+5.1 Abstraction des API systèmes
+5.2 Widgetsets détaillés
+  - 5.2.1 Win32/Win64 pour Windows
+  - 5.2.2 GTK2/GTK3 pour Ubuntu/Linux
+  - 5.2.3 Qt5 comme alternative universelle
+  - 5.2.4 Custom Drawn pour contrôle total
+5.3 Gestion des différences plateforme
+  - 5.3.1 Chemins et séparateurs
+  - 5.3.2 Fins de ligne (CRLF vs LF)
+  - 5.3.3 Encodages par défaut
+  - 5.3.4 Sensibilité à la casse
+5.4 Compilation conditionnelle avancée
 ```pascal
 {$IFDEF WINDOWS}
   // Code spécifique Windows
@@ -89,46 +89,46 @@
   {$ENDIF}
 {$ENDIF}
 ```
-5 Ressources et icônes multi-plateformes
-6 Tests cross-platform automatisés
-7 Intégration native par plateforme
-8 Support ARM et architectures embarquées
-9 Gestion unifiée de la configuration
+5.5 Ressources et icônes multi-plateformes
+5.6 Tests cross-platform automatisés
+5.7 Intégration native par plateforme
+5.8 Support ARM et architectures embarquées
+5.9 Gestion unifiée de la configuration
 
 ## 6. Spécificités Windows
 
-1 API Windows natives (WinAPI)
-2 Services Windows
-- 2.1 Création de services
-- 2.2 Interaction avec le Service Control Manager
-3 Registry Windows
-- 3.1 Lecture/écriture dans le registre
-- 3.2 Surveillance des modifications
-4 COM/ActiveX et OLE
-5 Windows Shell et intégration Explorer
-6 UAC et élévation de privilèges
-7 Signature Authenticode
-8 Windows Installer (MSI)
-9 PowerShell et scripts système
-10 WMI (Windows Management Instrumentation)
-11 DirectX et technologies multimédia Windows
+6.1 API Windows natives (WinAPI)
+6.2 Services Windows
+  - 6.2.1 Création de services
+  - 6.2.2 Interaction avec le Service Control Manager
+6.3 Registry Windows
+  - 6.3.1 Lecture/écriture dans le registre
+  - 6.3.2 Surveillance des modifications
+6.4 COM/ActiveX et OLE
+6.5 Windows Shell et intégration Explorer
+6.6 UAC et élévation de privilèges
+6.7 Signature Authenticode
+6.8 Windows Installer (MSI)
+6.9 PowerShell et scripts système
+6.10 WMI (Windows Management Instrumentation)
+6.11 DirectX et technologies multimédia Windows
 
 ## 7. Spécificités Linux/Ubuntu
 
-1 Système de fichiers Linux et permissions
-2 Services systemd
-- 2.1 Création d'unités systemd
-- 2.2 Journalctl et logging
-3 D-Bus et communication inter-processus
-4 Configuration via fichiers texte
-5 Intégration desktop (GNOME/KDE/XFCE)
-6 Freedesktop.org standards
-7 Paquets DEB et PPA
-8 AppImage et Flatpak
-9 Scripts Bash et intégration shell
-10 Signaux Unix et gestion des processus
-11 X11 et Wayland
-12 Politiques SELinux/AppArmor
+7.1 Système de fichiers Linux et permissions
+7.2 Services systemd
+  - 7.2.1 Création d'unités systemd
+  - 7.2.2 Journalctl et logging
+7.3 D-Bus et communication inter-processus
+7.4 Configuration via fichiers texte
+7.5 Intégration desktop (GNOME/KDE/XFCE)
+7.6 Freedesktop.org standards
+7.7 Paquets DEB et PPA
+7.8 AppImage et Flatpak
+7.9 Scripts Bash et intégration shell
+7.10 Signaux Unix et gestion des processus
+7.11 X11 et Wayland
+7.12 Politiques SELinux/AppArmor
 
 ## 8. Bases de Données et ORM Multi-plateformes
 
