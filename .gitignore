@@ -1,0 +1,34 @@
+# Lazarus/FreePascal
+*.compiled
+*.ppu
+*.o
+*.or
+*.a
+*.rsj
+*.lps
+*.bak*
+backup/
+lib/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Project binaries
+bin/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.lpi.lps
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Temporary files
+*.tmp
+*.temp
