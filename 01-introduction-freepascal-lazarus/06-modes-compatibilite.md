@@ -1030,4 +1030,4 @@ Il n'y a pas de mode "parfait", mais des modes adaptés :
 
 Le choix du mode est une décision importante qui affecte tout le projet. Prenez le temps de bien choisir au début, car changer de mode plus tard peut nécessiter des modifications importantes du code.
 
-⏭️
+⏭️ [Architecture du compilateur et processus de compilation](/01-introduction-freepascal-lazarus/07-architecture-compilateur-processus-compilation.md)

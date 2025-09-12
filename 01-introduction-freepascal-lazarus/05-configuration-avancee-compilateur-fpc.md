@@ -1251,4 +1251,4 @@ Avec ces bases solides, vous êtes prêt à exploiter pleinement la puissance de
 
 **Rappel important** : La meilleure configuration est celle que vous comprenez. N'ajoutez pas d'options "au cas où" - chaque paramètre doit avoir une raison d'être dans votre workflow.
 
-⏭️
+⏭️ [Modes de compatibilité (Turbo Pascal, Delphi, ObjFPC)](/01-introduction-freepascal-lazarus/06-modes-compatibilite.md)

@@ -231,4 +231,4 @@ Lors de l'utilisation de Lazarus sur Windows et Ubuntu, attention à :
 
 Maintenant que nous avons posé les bases et compris l'importance de maîtriser l'IDE Lazarus, nous allons explorer en détail chaque aspect de cet environnement puissant. Commençons par comprendre son architecture modulaire...
 
-⏭️
+⏭️ [Architecture modulaire de l'IDE](/02-maitrise-ide-lazarus/01-architecture-modulaire-ide.md)

@@ -409,4 +409,4 @@ Les points clés à retenir :
 
 Dans la prochaine section (2.2), nous verrons comment configurer et personnaliser ces modules pour créer votre environnement de développement idéal.
 
-⏭️
+⏭️ [Configuration et personnalisation avancée](/02-maitrise-ide-lazarus/02-configuration-personnalisation-avancee.md)

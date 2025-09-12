@@ -1,37 +1,37 @@
 # Formation FreePascal/Lazarus - Niveau Développeur Avancé
 ## Edition Multi-plateforme Windows/Ubuntu
 
-## 1. Introduction à FreePascal et Lazarus
+## 1. [Introduction à FreePascal et Lazarus](01-introduction-freepascal-lazarus/README.md)
 
-- 1.1 Histoire et philosophie du projet FreePascal
-- 1.2 L'écosystème Lazarus et son positionnement
-- 1.3 Différences avec Delphi et avantages du libre
-- 1.4 Installation multi-plateforme
-  - 1.4.1 Installation sur Windows (installer, chocolatey, portable)
-  - 1.4.2 Installation sur Ubuntu (apt, snap, compilation source)
-  - 1.4.3 Installation sur macOS et BSD
-- 1.5 Configuration avancée du compilateur FPC
-- 1.6 Modes de compatibilité (Turbo Pascal, Delphi, ObjFPC)
-- 1.7 Architecture du compilateur et processus de compilation
-- 1.8 Configuration d'environnements de développement dual-boot/VM
-- 1.9 Contribution aux projets open source FreePascal/Lazarus
+- 1.1 [Histoire et philosophie du projet FreePascal](01-introduction-freepascal-lazarus/01-histoire-philosophie-projet.md)
+- 1.2 [L'écosystème Lazarus et son positionnement](01-introduction-freepascal-lazarus/02-ecosysteme-lazarus-positionnement.md)
+- 1.3 [Différences avec Delphi et avantages du libre](01-introduction-freepascal-lazarus/03-differences-delphi-avantages-libre.md)
+- 1.4 [Installation multi-plateforme](01-introduction-freepascal-lazarus/04-installation-multiplateforme.md)
+  - 1.4.1 [Installation sur Windows (installer, chocolatey, portable)](01-introduction-freepascal-lazarus/04.1-installation-windows.md)
+  - 1.4.2 [Installation sur Ubuntu (apt, snap, compilation source)](01-introduction-freepascal-lazarus/04.2-installation-ubuntu.md)
+  - 1.4.3 [Installation sur macOS et BSD](01-introduction-freepascal-lazarus/04.3-installation-macos-bsd.md)
+- 1.5 [Configuration avancée du compilateur FPC](01-introduction-freepascal-lazarus/05-configuration-avancee-compilateur-fpc.md)
+- 1.6 [Modes de compatibilité (Turbo Pascal, Delphi, ObjFPC)](01-introduction-freepascal-lazarus/06-modes-compatibilite.md)
+- 1.7 [Architecture du compilateur et processus de compilation](01-introduction-freepascal-lazarus/07-architecture-compilateur-processus-compilation.md)
+- 1.8 [Configuration d'environnements de développement dual-boot/VM](01-introduction-freepascal-lazarus/08-configuration-environnements-dual-boot-vm.md)
+- 1.9 [Contribution aux projets open source FreePascal/Lazarus](01-introduction-freepascal-lazarus/09-contribution-projets-open-source.md)
 
-## 2. Maîtrise de l'IDE Lazarus
+## 2. [Maîtrise de l'IDE Lazarus](02-maitrise-ide-lazarus/README.md)
 
-- 2.1 Architecture modulaire de l'IDE
-- 2.2 Configuration et personnalisation avancée
-- 2.3 Création et gestion de packages
-- 2.4 Outils de refactoring intégrés
-- 2.5 Débogueur GDB et alternatives
-  - 2.5.1 Configuration GDB sur Windows
-  - 2.5.2 Configuration GDB sur Ubuntu
-  - 2.5.3 Alternatives (LLDB, FpDebug)
-- 2.6 Intégration avec les systèmes de contrôle de version
-- 2.7 Développement de plugins IDE
-- 2.8 Cross-compilation Windows↔Linux
-- 2.9 Profils de projet et configurations multiples
-- 2.10 Automatisation avec lazbuild
-- 2.11 Synchronisation de projets entre OS
+- 2.1 [Architecture modulaire de l'IDE](02-maitrise-ide-lazarus/01-architecture-modulaire-ide.md)
+- 2.2 [Configuration et personnalisation avancée](02-maitrise-ide-lazarus/02-configuration-personnalisation-avancee.md)
+- 2.3 [Création et gestion de packages](02-maitrise-ide-lazarus/03-creation-gestion-packages.md)
+- 2.4 [Outils de refactoring intégrés](02-maitrise-ide-lazarus/04-outils-refactoring-integres.md)
+- 2.5 [Débogueur GDB et alternatives](02-maitrise-ide-lazarus/05-debogueur-gdb-alternatives.md)
+  - 2.5.1 [Configuration GDB sur Windows](02-maitrise-ide-lazarus/05.1-configuration-gdb-windows.md)
+  - 2.5.2 [Configuration GDB sur Ubuntu](02-maitrise-ide-lazarus/05.2-configuration-gdb-ubuntu.md)
+  - 2.5.3 [Alternatives (LLDB, FpDebug)](02-maitrise-ide-lazarus/05.3-alternatives-lldb-fpdebug.md)
+- 2.6 [Intégration avec les systèmes de contrôle de version](02-maitrise-ide-lazarus/06-integration-controle-version.md)
+- 2.7 [Développement de plugins IDE](02-maitrise-ide-lazarus/07-developpement-plugins-ide.md)
+- 2.8 [Cross-compilation Windows↔Linux](02-maitrise-ide-lazarus/08-cross-compilation-windows-linux.md)
+- 2.9 [Profils de projet et configurations multiples](02-maitrise-ide-lazarus/09-profils-projet-configurations-multiples.md)
+- 2.10 [Automatisation avec lazbuild](02-maitrise-ide-lazarus/10-automatisation-lazbuild.md)
+- 2.11 [Synchronisation de projets entre OS](02-maitrise-ide-lazarus/11-synchronisation-projets-entre-os.md)
 
 ## 3. Langage Object Pascal Avancé
 

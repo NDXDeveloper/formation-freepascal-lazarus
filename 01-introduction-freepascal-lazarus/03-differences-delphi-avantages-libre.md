@@ -624,4 +624,4 @@ Que vous veniez de Delphi ou d'ailleurs, Lazarus vous accueille dans un monde o�
 
 **Bienvenue dans le monde du développement vraiment libre !**
 
-⏭️
+⏭️ [Installation multi-plateforme](/01-introduction-freepascal-lazarus/04-installation-multiplateforme.md)

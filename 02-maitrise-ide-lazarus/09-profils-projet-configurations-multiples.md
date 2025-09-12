@@ -919,4 +919,4 @@ Les profils de projet et configurations multiples sont essentiels pour un dével
 
 La maîtrise des modes de compilation transforme un projet amateur en solution professionnelle, prête pour le développement, les tests et la production !
 
-⏭️
+⏭️ [Automatisation avec lazbuild](/02-maitrise-ide-lazarus/10-automatisation-lazbuild.md)

@@ -580,4 +580,4 @@ Que vous soyez étudiant découvrant la programmation, professionnel cherchant u
 
 L'avenir appartient peut-être au cloud, à l'IA et aux technologies web, mais il y aura toujours une place pour les outils qui font simplement bien leur travail, sans fanfare ni complications inutiles. **Lazarus est de ceux-là**.
 
-⏭️
+⏭️ [Différences avec Delphi et avantages du libre](/01-introduction-freepascal-lazarus/03-differences-delphi-avantages-libre.md)

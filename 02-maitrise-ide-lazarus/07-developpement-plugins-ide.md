@@ -1053,4 +1053,4 @@ Le développement de plugins IDE ouvre des possibilités infinies pour personnal
 
 Le développement de plugins est un excellent moyen d'approfondir votre connaissance de Lazarus tout en créant des outils utiles pour vous et la communauté. Commencez petit, expérimentez, et n'ayez pas peur de regarder le code source de Lazarus lui-même pour comprendre comment les choses fonctionnent !
 
-⏭️
+⏭️ [Cross-compilation Windows↔Linux](/02-maitrise-ide-lazarus/08-cross-compilation-windows-linux.md)

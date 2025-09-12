@@ -19,9 +19,9 @@ L'installation d'un environnement de développement peut sembler être une étap
 Quand vous installez Lazarus, vous obtenez en réalité **trois composants majeurs** :
 
 ```
-┌─────────────────────────────────────────┐
+┌──────────────────────────────────────────┐
 │         Installation Lazarus             │
-├─────────────────────────────────────────┤
+├──────────────────────────────────────────┤
 │                                          │
 │  1. FPC (FreePascal Compiler)            │
 │     • Compilateur en ligne de commande   │
@@ -39,7 +39,7 @@ Quand vous installez Lazarus, vous obtenez en réalité **trois composants majeu
 │     • Débogueur GDB                      │
 │     • Utilitaires divers                 │
 │                                          │
-└─────────────────────────────────────────┘
+└──────────────────────────────────────────┘
 ```
 
 ### Tailles et ressources nécessaires
@@ -592,4 +592,4 @@ Chaque plateforme a ses particularités, mais la beauté de Lazarus est que **l'
 
 **Rappel important** : Une bonne installation est la fondation d'une expérience de développement agréable. Prenez le temps de bien faire les choses, cela vous évitera des frustrations futures !
 
-⏭️
+⏭️ [Installation sur Windows (installer, chocolatey, portable)](/01-introduction-freepascal-lazarus/04.1-installation-windows.md)

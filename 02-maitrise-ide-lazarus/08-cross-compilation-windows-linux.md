@@ -895,4 +895,4 @@ La cross-compilation avec Lazarus/FPC est un outil puissant qui permet de créer
 
 La cross-compilation transforme Lazarus en véritable forge logicielle multi-plateforme, vous permettant de toucher un maximum d'utilisateurs avec un minimum d'effort !
 
-⏭️
+⏭️ [Profils de projet et configurations multiples](/02-maitrise-ide-lazarus/09-profils-projet-configurations-multiples.md)

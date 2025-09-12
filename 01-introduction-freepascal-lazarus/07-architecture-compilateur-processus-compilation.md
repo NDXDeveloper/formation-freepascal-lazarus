@@ -816,4 +816,4 @@ Comprendre le compilateur vous aide à :
 
 Le compilateur est votre allié : plus vous le comprenez, mieux vous l'utilisez !
 
-⏭️
+⏭️ [Configuration d'environnements de développement dual-boot/VM](/01-introduction-freepascal-lazarus/08-configuration-environnements-dual-boot-vm.md)

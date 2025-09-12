@@ -931,4 +931,4 @@ Le développement multi-plateforme nécessite de tester sur les vraies plateform
 
 L'important est d'avoir un environnement de test pour chaque plateforme cible !
 
-⏭️
+⏭️ [Contribution aux projets open source FreePascal/Lazarus](/01-introduction-freepascal-lazarus/09-contribution-projets-open-source.md)

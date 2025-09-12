@@ -893,4 +893,4 @@ L'intégration du contrôle de version dans Lazarus transforme votre façon de d
 
 Le contrôle de version n'est pas optionnel en développement moderne. C'est un investissement qui paie dès le premier jour et devient indispensable avec le temps. Lazarus rend son utilisation simple et intuitive, permettant de se concentrer sur le code plutôt que sur l'outil.
 
-⏭️
+⏭️ [Développement de plugins IDE](/02-maitrise-ide-lazarus/07-developpement-plugins-ide.md)

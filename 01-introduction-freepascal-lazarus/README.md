@@ -124,18 +124,18 @@ FreePascal et Lazarus représentent aujourd'hui l'une des solutions de développ
 
 ```
 ┌─────────────────────────────────────┐
-│         Applications Lazarus         │
+│         Applications Lazarus        │
 ├─────────────────────────────────────┤
-│              LCL (GUI)               │
+│              LCL (GUI)              │
 ├─────────────────────────────────────┤
-│         FCL (Classes de base)        │
+│         FCL (Classes de base)       │
 ├─────────────────────────────────────┤
-│         RTL (Runtime Library)        │
+│         RTL (Runtime Library)       │
 ├─────────────────────────────────────┤
-│      Compilateur FreePascal (FPC)    │
+│      Compilateur FreePascal (FPC)   │
 ├─────────────────────────────────────┤
-│         Système d'exploitation       │
-│    (Windows / Linux / macOS / ...)   │
+│         Système d'exploitation      │
+│    (Windows / Linux / macOS / ...)  │
 └─────────────────────────────────────┘
 ```
 
@@ -356,4 +356,4 @@ Après cette introduction, nous explorerons en détail :
 
 **Bienvenue dans le monde du développement libre, performant et véritablement multi-plateforme avec FreePascal et Lazarus !**
 
-⏭️
+⏭️ [Histoire et philosophie du projet FreePascal](/01-introduction-freepascal-lazarus/01-histoire-philosophie-projet.md)

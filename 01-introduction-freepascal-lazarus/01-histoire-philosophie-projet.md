@@ -295,4 +295,4 @@ Cette philosophie fait de FreePascal plus qu'un simple compilateur : c'est un t�
 
 En choisissant FreePascal, vous ne choisissez pas seulement un outil technique, vous rejoignez une communauté et adoptez une philosophie de développement qui a fait ses preuves sur trois décennies.
 
-⏭️
+⏭️ [L'écosystème Lazarus et son positionnement](/01-introduction-freepascal-lazarus/02-ecosysteme-lazarus-positionnement.md)

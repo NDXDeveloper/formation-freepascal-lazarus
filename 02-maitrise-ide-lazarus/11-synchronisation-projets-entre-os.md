@@ -1775,4 +1775,4 @@ La synchronisation de projets entre OS est un défi technique qui demande de la 
 
 La maîtrise de la synchronisation multi-OS transforme votre projet Lazarus d'une application limitée à une plateforme en une solution professionnelle véritablement universelle !
 
-⏭️
+⏭️ [Langage Object Pascal Avancé](/03-langage-object-pascal-avance/README.md)

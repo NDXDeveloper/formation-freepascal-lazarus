@@ -476,4 +476,4 @@ Chaque section contiendra des instructions pas à pas, des solutions aux problè
 
 Le débogage est une compétence essentielle qui distingue les développeurs amateurs des professionnels. Maîtriser ces outils transformera votre façon de développer et vous fera gagner un temps précieux dans la résolution des problèmes.
 
-⏭️
+⏭️ [Configuration GDB sur Windows](/02-maitrise-ide-lazarus/05.1-configuration-gdb-windows.md)

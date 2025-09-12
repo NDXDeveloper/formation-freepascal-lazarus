@@ -760,4 +760,4 @@ La maîtrise des packages vous permet de :
 
 Dans la prochaine section (2.4), nous verrons comment utiliser les outils de refactoring pour améliorer et restructurer votre code efficacement.
 
-⏭️
+⏭️ [Outils de refactoring intégrés](/02-maitrise-ide-lazarus/04-outils-refactoring-integres.md)

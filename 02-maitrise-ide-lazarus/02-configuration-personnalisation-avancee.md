@@ -637,4 +637,4 @@ Les points essentiels à retenir :
 
 Dans la section suivante (2.3), nous verrons comment étendre encore plus Lazarus avec le système de packages.
 
-⏭️
+⏭️ [Création et gestion de packages](/02-maitrise-ide-lazarus/03-creation-gestion-packages.md)

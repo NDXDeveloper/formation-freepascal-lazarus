@@ -857,4 +857,4 @@ La maîtrise de ces outils vous fera gagner un temps précieux et améliorera co
 
 Dans la prochaine section (2.5), nous explorerons le débogueur et ses fonctionnalités avancées pour traquer efficacement les bugs dans vos applications.
 
-⏭️
+⏭️ [Débogueur GDB et alternatives](/02-maitrise-ide-lazarus/05-debogueur-gdb-alternatives.md)

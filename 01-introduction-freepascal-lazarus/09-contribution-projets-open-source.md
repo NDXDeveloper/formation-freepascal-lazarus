@@ -884,4 +884,4 @@ Chaque contribution, même minime, renforce l'écosystème FreePascal/Lazarus. V
 
 **Bienvenue dans la communauté des contributeurs !**
 
-⏭️
+⏭️ 2. [Maîtrise de l'IDE Lazarus](/02-maitrise-ide-lazarus/README.md)

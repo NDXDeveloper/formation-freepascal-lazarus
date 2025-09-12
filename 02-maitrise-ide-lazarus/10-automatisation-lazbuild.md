@@ -1915,4 +1915,4 @@ Lazbuild est l'outil indispensable pour automatiser vos compilations Lazarus. Il
 
 L'automatisation avec lazbuild est un investissement qui paie rapidement. Une fois vos scripts en place, vous gagnerez un temps précieux et éviterez les erreurs de compilation manuelle. C'est un outil essentiel pour tout développeur Lazarus sérieux qui veut passer du développement amateur au niveau professionnel !
 
-⏭️
+⏭️ [Synchronisation de projets entre OS](/02-maitrise-ide-lazarus/11-synchronisation-projets-entre-os.md)
