@@ -33,20 +33,20 @@
 - 2.10 [Automatisation avec lazbuild](02-maitrise-ide-lazarus/10-automatisation-lazbuild.md)
 - 2.11 [Synchronisation de projets entre OS](02-maitrise-ide-lazarus/11-synchronisation-projets-entre-os.md)
 
-## 3. Langage Object Pascal Avancé
+## 3. [Langage Object Pascal Avancé](03-langage-object-pascal-avance/README.md)
 
-- 3.1 Spécificités FreePascal vs Delphi
-- 3.2 Généricité avancée et spécialisation
-- 3.3 Types avancés et RTTI (Run-Time Type Information)
-- 3.4 Programmation méta avec les attributs
-- 3.5 Gestion mémoire et comptage de références
-- 3.6 Inline assembler multi-architecture (x86, x64, ARM)
-- 3.7 Helpers de classe et de record
-- 3.8 Opérateurs avancés et surcharge
-- 3.9 Anonymous methods et closures
-- 3.10 Coroutines et programmation asynchrone
-- 3.11 Optimisations du compilateur
-- 3.12 Directives de compilation conditionnelle multi-OS
+- 3.1 [Spécificités FreePascal vs Delphi](03-langage-object-pascal-avance/01-specificites-freepascal-vs-delphi.md)
+- 3.2 [Généricité avancée et spécialisation](03-langage-object-pascal-avance/02-genericite-avancee-specialisation.md)
+- 3.3 [Types avancés et RTTI (Run-Time Type Information)](03-langage-object-pascal-avance/03-types-avances-rtti.md)
+- 3.4 [Programmation méta avec les attributs](03-langage-object-pascal-avance/04-programmation-meta-attributs.md)
+- 3.5 [Gestion mémoire et comptage de références](03-langage-object-pascal-avance/05-gestion-memoire-comptage-references.md)
+- 3.6 [Inline assembler multi-architecture (x86, x64, ARM)](03-langage-object-pascal-avance/06-inline-assembler-multi-architecture.md)
+- 3.7 [Helpers de classe et de record](03-langage-object-pascal-avance/07-helpers-classe-record.md)
+- 3.8 [Opérateurs avancés et surcharge](03-langage-object-pascal-avance/08-operateurs-avances-surcharge.md)
+- 3.9 [Anonymous methods et closures](03-langage-object-pascal-avance/09-anonymous-methods-closures.md)
+- 3.10 [Coroutines et programmation asynchrone](03-langage-object-pascal-avance/10-coroutines-programmation-asynchrone.md)
+- 3.11 [Optimisations du compilateur](03-langage-object-pascal-avance/11-optimisations-compilateur.md)
+- 3.12 [Directives de compilation conditionnelle multi-OS](03-langage-object-pascal-avance/12-directives-compilation-conditionnelle-multi-os.md)
 
 ## 4. Framework LCL (Lazarus Component Library)
 
