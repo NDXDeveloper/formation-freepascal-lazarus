@@ -48,22 +48,22 @@
 - 3.11 [Optimisations du compilateur](03-langage-object-pascal-avance/11-optimisations-compilateur.md)
 - 3.12 [Directives de compilation conditionnelle multi-OS](03-langage-object-pascal-avance/12-directives-compilation-conditionnelle-multi-os.md)
 
-## 4. Framework LCL (Lazarus Component Library)
+## 4. [Framework LCL (Lazarus Component Library)](04-framework-lcl/README.md)
 
-- 4.1 Architecture de la LCL et widgetsets
-- 4.2 Composants visuels fondamentaux
-- 4.3 Composants non-visuels et services
-- 4.4 Création de composants personnalisés portables
-- 4.5 Propriétés publiées et streaming
-- 4.6 Éditeurs de propriétés personnalisés
-- 4.7 Composants composites et frames
-- 4.8 Gestion avancée des événements
-- 4.9 Thèmes et apparence personnalisée
-  - 4.9.1 Thèmes Windows (styles visuels)
-  - 4.9.2 Thèmes GTK/Qt sur Ubuntu
-- 4.10 Accessibilité et support des lecteurs d'écran
-- 4.11 High-DPI et mise à l'échelle
-- 4.12 Gestion des différences d'interface OS
+- 4.1 [Architecture de la LCL et widgetsets](04-framework-lcl/01-architecture-lcl-widgetsets.md)
+- 4.2 [Composants visuels fondamentaux](04-framework-lcl/02-composants-visuels-fondamentaux.md)
+- 4.3 [Composants non-visuels et services](04-framework-lcl/03-composants-non-visuels-services.md)
+- 4.4 [Création de composants personnalisés portables](04-framework-lcl/04-creation-composants-personnalises-portables.md)
+- 4.5 [Propriétés publiées et streaming](04-framework-lcl/05-proprietes-publiees-streaming.md)
+- 4.6 [Éditeurs de propriétés personnalisés](04-framework-lcl/06-editeurs-proprietes-personnalises.md)
+- 4.7 [Composants composites et frames](04-framework-lcl/07-composants-composites-frames.md)
+- 4.8 [Gestion avancée des événements](04-framework-lcl/08-gestion-avancee-evenements.md)
+- 4.9 [Thèmes et apparence personnalisée](04-framework-lcl/09-themes-apparence-personnalisee.md)
+  - 4.9.1 [Thèmes Windows (styles visuels)](04-framework-lcl/09.1-themes-windows-styles-visuels.md)
+  - 4.9.2 [Thèmes GTK/Qt sur Ubuntu](04-framework-lcl/09.2-themes-gtk-qt-ubuntu.md)
+- 4.10 [Accessibilité et support des lecteurs d'écran](04-framework-lcl/10-accessibilite-support-lecteurs-ecran.md)
+- 4.11 [High-DPI et mise à l'échelle](04-framework-lcl/11-high-dpi-mise-echelle.md)
+- 4.12 [Gestion des différences d'interface OS](04-framework-lcl/12-gestion-differences-interface-os.md)
 
 ## 5. Développement Multi-plateforme Approfondi
 
