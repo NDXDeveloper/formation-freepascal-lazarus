@@ -898,4 +898,4 @@ Gérer les différences d'interface entre systèmes d'exploitation est essentiel
 
 Avec ces techniques, votre application Lazarus sera naturelle et agréable à utiliser, que ce soit sur Windows, Linux ou macOS. Les utilisateurs apprécieront une application qui "parle leur langue" visuelle et comportementale.
 
-⏭️ [Développement Multi-plateforme Approfondi](05-developpement-multiplateforme-approfondi/README.md)
+⏭️ [Développement Multi-plateforme Approfondi](/05-developpement-multiplateforme-approfondi/README.md)

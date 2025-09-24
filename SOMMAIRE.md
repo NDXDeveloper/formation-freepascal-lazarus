@@ -65,20 +65,20 @@
 - 4.11 [High-DPI et mise à l'échelle](04-framework-lcl/11-high-dpi-mise-echelle.md)
 - 4.12 [Gestion des différences d'interface OS](04-framework-lcl/12-gestion-differences-interface-os.md)
 
-## 5. Développement Multi-plateforme Approfondi
+## 5. [Développement Multi-plateforme Approfondi](05-developpement-multiplateforme-approfondi/README.md)
 
-- 5.1 Abstraction des API systèmes
-- 5.2 Widgetsets détaillés
-  - 5.2.1 Win32/Win64 pour Windows
-  - 5.2.2 GTK2/GTK3 pour Ubuntu/Linux
-  - 5.2.3 Qt5 comme alternative universelle
-  - 5.2.4 Custom Drawn pour contrôle total
-- 5.3 Gestion des différences plateforme
-  - 5.3.1 Chemins et séparateurs
-  - 5.3.2 Fins de ligne (CRLF vs LF)
-  - 5.3.3 Encodages par défaut
-  - 5.3.4 Sensibilité à la casse
-- 5.4 Compilation conditionnelle avancée
+- 5.1 [Abstraction des API systèmes](05-developpement-multiplateforme-approfondi/01-abstraction-api-systemes.md)
+- 5.2 [Widgetsets détaillés](05-developpement-multiplateforme-approfondi/02-widgetsets-detailles.md)
+  - 5.2.1 [Win32/Win64 pour Windows](05-developpement-multiplateforme-approfondi/02.1-win32-win64-windows.md)
+  - 5.2.2 [GTK2/GTK3 pour Ubuntu/Linux](05-developpement-multiplateforme-approfondi/02.2-gtk2-gtk3-ubuntu-linux.md)
+  - 5.2.3 [Qt5 comme alternative universelle](05-developpement-multiplateforme-approfondi/02.3-qt5-alternative-universelle.md)
+  - 5.2.4 [Custom Drawn pour contrôle total](05-developpement-multiplateforme-approfondi/02.4-custom-drawn-controle-total.md)
+- 5.3 [Gestion des différences plateforme](05-developpement-multiplateforme-approfondi/03-gestion-differences-plateforme.md)
+  - 5.3.1 [Chemins et séparateurs](05-developpement-multiplateforme-approfondi/03.1-chemins-separateurs.md)
+  - 5.3.2 [Fins de ligne (CRLF vs LF)](05-developpement-multiplateforme-approfondi/03.2-fins-ligne-crlf-vs-lf.md)
+  - 5.3.3 [Encodages par défaut](05-developpement-multiplateforme-approfondi/03.3-encodages-defaut.md)
+  - 5.3.4 [Sensibilité à la casse](05-developpement-multiplateforme-approfondi/03.4-sensibilite-casse.md)
+- 5.4 [Compilation conditionnelle avancée](05-developpement-multiplateforme-approfondi/04-compilation-conditionnelle-avancee.md)
 ```pascal
 {$IFDEF WINDOWS}
   // Code spécifique Windows
@@ -89,11 +89,11 @@
   {$ENDIF}
 {$ENDIF}
 ```
-- 5.5 Ressources et icônes multi-plateformes
-- 5.6 Tests cross-platform automatisés
-- 5.7 Intégration native par plateforme
-- 5.8 Support ARM et architectures embarquées
-- 5.9 Gestion unifiée de la configuration
+- 5.5 [Ressources et icônes multi-plateformes](05-developpement-multiplateforme-approfondi/05-ressources-icones-multiplatefomes.md)
+- 5.6 [Tests cross-platform automatisés](05-developpement-multiplateforme-approfondi/06-tests-cross-platform-automatises.md)
+- 5.7 [Intégration native par plateforme](05-developpement-multiplateforme-approfondi/07-integration-native-par-plateforme.md)
+- 5.8 [Support ARM et architectures embarquées](05-developpement-multiplateforme-approfondi/08-support-arm-architectures-embarquees.md)
+- 5.9 [Gestion unifiée de la configuration](05-developpement-multiplateforme-approfondi/09-gestion-unifiee-configuration.md)
 
 ## 6. Spécificités Windows
 
