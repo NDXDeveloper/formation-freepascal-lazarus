@@ -95,23 +95,23 @@
 - 5.8 [Support ARM et architectures embarquées](05-developpement-multiplateforme-approfondi/08-support-arm-architectures-embarquees.md)
 - 5.9 [Gestion unifiée de la configuration](05-developpement-multiplateforme-approfondi/09-gestion-unifiee-configuration.md)
 
-## 6. Spécificités Windows
+## 6. [Spécificités Windows](06-specificites-windows/README.md)
 
-- 6.1 API Windows natives (WinAPI)
-- 6.2 Services Windows
-  - 6.2.1 Création de services
-  - 6.2.2 Interaction avec le Service Control Manager
-- 6.3 Registry Windows
-  - 6.3.1 Lecture/écriture dans le registre
-  - 6.3.2 Surveillance des modifications
-- 6.4 COM/ActiveX et OLE
-- 6.5 Windows Shell et intégration Explorer
-- 6.6 UAC et élévation de privilèges
-- 6.7 Signature Authenticode
-- 6.8 Windows Installer (MSI)
-- 6.9 PowerShell et scripts système
-- 6.10 WMI (Windows Management Instrumentation)
-- 6.11 DirectX et technologies multimédia Windows
+- 6.1 [API Windows natives (WinAPI)](06-specificites-windows/01-api-windows-natives-winapi.md)
+- 6.2 [Services Windows](06-specificites-windows/02-services-windows.md)
+  - 6.2.1 [Création de services](06-specificites-windows/02.1-creation-services.md)
+  - 6.2.2 [Interaction avec le Service Control Manager](06-specificites-windows/02.2-interaction-service-control-manager.md)
+- 6.3 [Registry Windows](06-specificites-windows/03-registry-windows.md)
+  - 6.3.1 [Lecture/écriture dans le registre](06-specificites-windows/03.1-lecture-ecriture-registre.md)
+  - 6.3.2 [Surveillance des modifications](06-specificites-windows/03.2-surveillance-modifications.md)
+- 6.4 [COM/ActiveX et OLE](06-specificites-windows/04-com-activex-ole.md)
+- 6.5 [Windows Shell et intégration Explorer](06-specificites-windows/05-windows-shell-integration-explorer.md)
+- 6.6 [UAC et élévation de privilèges](06-specificites-windows/06-uac-elevation-privileges.md)
+- 6.7 [Signature Authenticode](06-specificites-windows/07-signature-authenticode.md)
+- 6.8 [Windows Installer (MSI)](06-specificites-windows/08-windows-installer-msi.md)
+- 6.9 [PowerShell et scripts système](06-specificites-windows/09-powershell-scripts-systeme.md)
+- 6.10 [WMI (Windows Management Instrumentation)](06-specificites-windows/10-wmi-windows-management-instrumentation.md)
+- 6.11 [DirectX et technologies multimédia Windows](06-specificites-windows/11-directx-technologies-multimedia-windows.md)
 
 ## 7. Spécificités Linux/Ubuntu
 
