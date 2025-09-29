@@ -113,22 +113,22 @@
 - 6.10 [WMI (Windows Management Instrumentation)](06-specificites-windows/10-wmi-windows-management-instrumentation.md)
 - 6.11 [DirectX et technologies multimédia Windows](06-specificites-windows/11-directx-technologies-multimedia-windows.md)
 
-## 7. Spécificités Linux/Ubuntu
+## 7. [Spécificités Linux/Ubuntu](07-specificites-linux-ubuntu/README.md)
 
-- 7.1 Système de fichiers Linux et permissions
-- 7.2 Services systemd
-  - 7.2.1 Création d'unités systemd
-  - 7.2.2 Journalctl et logging
-- 7.3 D-Bus et communication inter-processus
-- 7.4 Configuration via fichiers texte
-- 7.5 Intégration desktop (GNOME/KDE/XFCE)
-- 7.6 Freedesktop.org standards
-- 7.7 Paquets DEB et PPA
-- 7.8 AppImage et Flatpak
-- 7.9 Scripts Bash et intégration shell
-- 7.10 Signaux Unix et gestion des processus
-- 7.11 X11 et Wayland
-- 7.12 Politiques SELinux/AppArmor
+- 7.1 [Système de fichiers Linux et permissions](07-specificites-linux-ubuntu/01-systeme-fichiers-linux-permissions.md)
+- 7.2 [Services systemd](07-specificites-linux-ubuntu/02-services-systemd.md)
+  - 7.2.1 [Création d'unités systemd](07-specificites-linux-ubuntu/02.1-creation-unites-systemd.md)
+  - 7.2.2 [Journalctl et logging](07-specificites-linux-ubuntu/02.2-journalctl-logging.md)
+- 7.3 [D-Bus et communication inter-processus](07-specificites-linux-ubuntu/03-dbus-communication-inter-processus.md)
+- 7.4 [Configuration via fichiers texte](07-specificites-linux-ubuntu/04-configuration-via-fichiers-texte.md)
+- 7.5 [Intégration desktop (GNOME/KDE/XFCE)](07-specificites-linux-ubuntu/05-integration-desktop-gnome-kde-xfce.md)
+- 7.6 [Freedesktop.org standards](07-specificites-linux-ubuntu/06-freedesktop-org-standards.md)
+- 7.7 [Paquets DEB et PPA](07-specificites-linux-ubuntu/07-paquets-deb-ppa.md)
+- 7.8 [AppImage et Flatpak](07-specificites-linux-ubuntu/08-appimage-flatpak.md)
+- 7.9 [Scripts Bash et intégration shell](07-specificites-linux-ubuntu/09-scripts-bash-integration-shell.md)
+- 7.10 [Signaux Unix et gestion des processus](07-specificites-linux-ubuntu/10-signaux-unix-gestion-processus.md)
+- 7.11 [X11 et Wayland](07-specificites-linux-ubuntu/11-x11-wayland.md)
+- 7.12 [Politiques SELinux/AppArmor](07-specificites-linux-ubuntu/12-politiques-selinux-apparmor.md)
 
 ## 8. Bases de Données et ORM Multi-plateformes
 
