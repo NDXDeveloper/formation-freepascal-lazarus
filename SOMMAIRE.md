@@ -151,23 +151,23 @@
 - 8.11 [NoSQL avec MongoDB et Redis](08-bases-donnees-orm-multiplatefomes/11-nosql-mongodb-redis.md)
 - 8.12 [GraphQL et API modernes](08-bases-donnees-orm-multiplatefomes/12-graphql-api-modernes.md)
 
-## 9. Programmation Web avec FreePascal
+## 9. [Programmation Web avec FreePascal](09-programmation-web-freepascal/README.md)
 
-- 9.1 fpWeb - Framework web intégré
-- 9.2 FastCGI et développement CGI
-  - 9.2.1 Configuration IIS (Windows)
-  - 9.2.2 Configuration Apache/Nginx (Ubuntu)
-- 9.3 Brook Framework pour applications REST
-- 9.4 WebSockets et Server-Sent Events
-- 9.5 Templates et génération HTML
-- 9.6 Sessions et authentification
-- 9.7 Microservices avec FreePascal
-- 9.8 Pas2JS - Transpilation vers JavaScript
-- 9.9 WebAssembly avec FreePascal
-- 9.10 Intégration avec frameworks JavaScript
-- 9.11 Déploiement sur serveurs Windows/Linux
+- 9.1 [fpWeb - Framework web intégré](09-programmation-web-freepascal/01-fpweb-framework-web-integre.md)
+- 9.2 [FastCGI et développement CGI](09-programmation-web-freepascal/02-fastcgi-developpement-cgi.md)
+  - 9.2.1 [Configuration IIS (Windows)](09-programmation-web-freepascal/02.1-configuration-iis-windows.md)
+  - 9.2.2 [Configuration Apache/Nginx (Ubuntu)](09-programmation-web-freepascal/02.2-configuration-apache-nginx-ubuntu.md)
+- 9.3 [Brook Framework pour applications REST](09-programmation-web-freepascal/03-brook-framework-applications-rest.md)
+- 9.4 [WebSockets et Server-Sent Events](09-programmation-web-freepascal/04-websockets-server-sent-events.md)
+- 9.5 [Templates et génération HTML](09-programmation-web-freepascal/05-templates-generation-html.md)
+- 9.6 [Sessions et authentification](09-programmation-web-freepascal/06-sessions-authentification.md)
+- 9.7 [Microservices avec FreePascal](09-programmation-web-freepascal/07-microservices-avec-freepascal.md)
+- 9.8 [Pas2JS - Transpilation vers JavaScript](09-programmation-web-freepascal/08-pas2js-transpilation-javascript.md)
+- 9.9 [WebAssembly avec FreePascal](09-programmation-web-freepascal/09-webassembly-avec-freepascal.md)
+- 9.10 [Intégration avec frameworks JavaScript](09-programmation-web-freepascal/10-integration-frameworks-javascript.md)
+- 9.11 [Déploiement sur serveurs Windows/Linux](09-programmation-web-freepascal/11-deploiement-serveurs-windows-linux.md)
 
-## 10. Programmation Réseau Avancée
+## 10. [Programmation Réseau Avancée](10-programmation-reseau-avancee/README.md)
 
 - 10.1 Synapse - Bibliothèque réseau complète
 - 10.2 Indy pour Lazarus
