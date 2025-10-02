@@ -188,20 +188,20 @@
 
 ## 11. [Multithreading et Concurrence](11-multithreading-concurrence/README.md)
 
-- 11.1 TThread et synchronisation avancée
-- 11.2 Thread pools et workers
-- 11.3 Structures de données thread-safe
-- 11.4 Lock-free programming
-- 11.5 Parallel programming library
-- 11.6 Async/Await patterns
-- 11.7 Différences de scheduling Windows/Linux
-- 11.8 Acteurs et passage de messages
-- 11.9 Coroutines et fibers
-- 11.10 Optimisation multicœur
-- 11.11 Affinité processeur par OS
-- 11.12 Débogage d'applications concurrentes
+- 11.1 [TThread et synchronisation avancée](11-multithreading-concurrence/01-tthread-synchronisation-avancee.md)
+- 11.2 [Thread pools et workers](11-multithreading-concurrence/02-thread-pools-workers.md)
+- 11.3 [Structures de données thread-safe](11-multithreading-concurrence/03-structures-donnees-thread-safe.md)
+- 11.4 [Lock-free programming](11-multithreading-concurrence/04-lock-free-programming.md)
+- 11.5 [Parallel programming library](11-multithreading-concurrence/05-parallel-programming-library.md)
+- 11.6 [Async/Await patterns](11-multithreading-concurrence/06-async-await-patterns.md)
+- 11.7 [Différences de scheduling Windows/Linux](11-multithreading-concurrence/07-differences-scheduling-windows-linux.md)
+- 11.8 [Acteurs et passage de messages](11-multithreading-concurrence/08-acteurs-passage-messages.md)
+- 11.9 [Coroutines et fibers](11-multithreading-concurrence/09-coroutines-fibers.md)
+- 11.10 [Optimisation multicœur](11-multithreading-concurrence/10-optimisation-multicoeur.md)
+- 11.11 [Affinité processeur par OS](11-multithreading-concurrence/11-affinite-processeur-par-os.md)
+- 11.12 [Débogage d'applications concurrentes](11-multithreading-concurrence/12-debogage-applications-concurrentes.md)
 
-## 12. Interfaces Graphiques Avancées
+## 12. [Interfaces Graphiques Avancées](12-interfaces-graphiques-avancees/README.md)
 
 - 12.1 Custom drawing et Canvas avancé
 - 12.2 BGRABitmap pour graphiques avancés
