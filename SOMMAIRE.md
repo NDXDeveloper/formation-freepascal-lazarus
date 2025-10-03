@@ -203,21 +203,21 @@
 
 ## 12. [Interfaces Graphiques Avancées](12-interfaces-graphiques-avancees/README.md)
 
-- 12.1 Custom drawing et Canvas avancé
-- 12.2 BGRABitmap pour graphiques avancés
-- 12.3 OpenGL multi-plateforme
-  - 12.3.1 Configuration OpenGL Windows
-  - 12.3.2 Configuration OpenGL Linux/Mesa
-- 12.4 Vulkan et rendu moderne
-- 12.5 Animations et transitions
-- 12.6 Docking et interfaces modulaires
-- 12.7 Éditeurs et designers intégrés
-- 12.8 Graphiques vectoriels SVG
-- 12.9 Traitement d'images avancé
-- 12.10 Vision par ordinateur avec OpenCV
-- 12.11 Accélération GPU (CUDA/OpenCL)
+- 12.1 [Custom drawing et Canvas avancé](12-interfaces-graphiques-avancees/01-custom-drawing-canvas-avance.md)
+- 12.2 [BGRABitmap pour graphiques avancés](12-interfaces-graphiques-avancees/02-bgrabitmap-graphiques-avances.md)
+- 12.3 [OpenGL multi-plateforme](12-interfaces-graphiques-avancees/03-opengl-multiplateforme.md)
+  - 12.3.1 [Configuration OpenGL Windows](12-interfaces-graphiques-avancees/03.1-configuration-opengl-windows.md)
+  - 12.3.2 [Configuration OpenGL Linux/Mesa](12-interfaces-graphiques-avancees/03.2-configuration-opengl-linux-mesa.md)
+- 12.4 [Vulkan et rendu moderne](12-interfaces-graphiques-avancees/04-vulkan-rendu-moderne.md)
+- 12.5 [Animations et transitions](12-interfaces-graphiques-avancees/05-animations-transitions.md)
+- 12.6 [Docking et interfaces modulaires](12-interfaces-graphiques-avancees/06-docking-interfaces-modulaires.md)
+- 12.7 [Éditeurs et designers intégrés](12-interfaces-graphiques-avancees/07-editeurs-designers-integres.md)
+- 12.8 [Graphiques vectoriels SVG](12-interfaces-graphiques-avancees/08-graphiques-vectoriels-svg.md)
+- 12.9 [Traitement d'images avancé](12-interfaces-graphiques-avancees/09-traitement-images-avance.md)
+- 12.10 [Vision par ordinateur avec OpenCV](12-interfaces-graphiques-avancees/10-vision-ordinateur-opencv.md)
+- 12.11 [Accélération GPU (CUDA/OpenCL)](12-interfaces-graphiques-avancees/11-acceleration-gpu-cuda-opencl.md)
 
-## 13. Développement Mobile et Embarqué
+## 13. [Développement Mobile et Embarqué](13-developpement-mobile-embarque/README.md)
 
 - 13.1 LAMW - Lazarus Android Module Wizard
 - 13.2 Architecture Android et JNI
