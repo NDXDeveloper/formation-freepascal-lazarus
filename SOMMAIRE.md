@@ -219,20 +219,20 @@
 
 ## 13. [Développement Mobile et Embarqué](13-developpement-mobile-embarque/README.md)
 
-- 13.1 LAMW - Lazarus Android Module Wizard
-- 13.2 Architecture Android et JNI
-- 13.3 Interfaces natives Android
-- 13.4 Custom Drawn pour interfaces mobiles
-- 13.5 Capteurs et périphériques mobiles
-- 13.6 iOS avec FreePascal (expérimental)
-- 13.7 Raspberry Pi
-  - 13.7.1 Cross-compilation depuis Windows
-  - 13.7.2 Développement natif sur Ubuntu ARM
-- 13.8 Arduino et microcontrôleurs
-- 13.9 Optimisation pour appareils mobiles
-- 13.10 Distribution sur stores
+- 13.1 [LAMW - Lazarus Android Module Wizard](13-developpement-mobile-embarque/01-lamw-lazarus-android-module-wizard.md)
+- 13.2 [Architecture Android et JNI](13-developpement-mobile-embarque/02-architecture-android-jni.md)
+- 13.3 [Interfaces natives Android](13-developpement-mobile-embarque/03-interfaces-natives-android.md)
+- 13.4 [Custom Drawn pour interfaces mobiles](13-developpement-mobile-embarque/04-custom-drawn-interfaces-mobiles.md)
+- 13.5 [Capteurs et périphériques mobiles](13-developpement-mobile-embarque/05-capteurs-peripheriques-mobiles.md)
+- 13.6 [iOS avec FreePascal (expérimental)](13-developpement-mobile-embarque/06-ios-freepascal-experimental.md)
+- 13.7 [Raspberry Pi](13-developpement-mobile-embarque/07-raspberry-pi.md)
+  - 13.7.1 [Cross-compilation depuis Windows](13-developpement-mobile-embarque/07.1-cross-compilation-depuis-windows.md)
+  - 13.7.2 [Développement natif sur Ubuntu ARM](13-developpement-mobile-embarque/07.2-developpement-natif-ubuntu-arm.md)
+- 13.8 [Arduino et microcontrôleurs](13-developpement-mobile-embarque/08-arduino-microcontroleurs.md)
+- 13.9 [Optimisation pour appareils mobiles](13-developpement-mobile-embarque/09-optimisation-appareils-mobiles.md)
+- 13.10 [Distribution sur stores](13-developpement-mobile-embarque/10-distribution-stores.md)
 
-## 14. Systèmes Embarqués et IoT
+## 14. [Systèmes Embarqués et IoT](14-systemes-embarques-iot/README.md)
 
 - 14.1 FreePascal pour microcontrôleurs
 - 14.2 AVR et Arduino avec FreePascal
