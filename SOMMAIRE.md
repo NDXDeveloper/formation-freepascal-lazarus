@@ -250,20 +250,20 @@
 
 ## 15. [Intelligence Artificielle et Machine Learning](15-intelligence-artificielle-machine-learning/README.md)
 
-- 15.1 Bindings TensorFlow pour FreePascal
-- 15.2 Réseaux de neurones from scratch
-- 15.3 Computer Vision avec OpenCV
-- 15.4 NLP et traitement de texte
-- 15.5 Algorithmes génétiques
-- 15.6 Apprentissage par renforcement
-- 15.7 Intégration avec Python
-  - 15.7.1 Python4Lazarus sur Windows
-  - 15.7.2 Python4Lazarus sur Ubuntu
-- 15.8 ONNX et modèles portables
-- 15.9 GPU computing avec CUDA/OpenCL
-- 15.10 Déploiement de modèles IA
+- 15.1 [Bindings TensorFlow pour FreePascal](15-intelligence-artificielle-machine-learning/01-bindings-tensorflow-freepascal.md)
+- 15.2 [Réseaux de neurones from scratch](15-intelligence-artificielle-machine-learning/02-reseaux-neurones-from-scratch.md)
+- 15.3 [Computer Vision avec OpenCV](15-intelligence-artificielle-machine-learning/03-computer-vision-opencv.md)
+- 15.4 [NLP et traitement de texte](15-intelligence-artificielle-machine-learning/04-nlp-traitement-texte.md)
+- 15.5 [Algorithmes génétiques](15-intelligence-artificielle-machine-learning/05-algorithmes-genetiques.md)
+- 15.6 [Apprentissage par renforcement](15-intelligence-artificielle-machine-learning/06-apprentissage-par-renforcement.md)
+- 15.7 [Intégration avec Python](15-intelligence-artificielle-machine-learning/07-integration-python.md)
+  - 15.7.1 [Python4Lazarus sur Windows](15-intelligence-artificielle-machine-learning/07.1-python4lazarus-windows.md)
+  - 15.7.2 [Python4Lazarus sur Ubuntu](15-intelligence-artificielle-machine-learning/07.2-python4lazarus-ubuntu.md)
+- 15.8 [ONNX et modèles portables](15-intelligence-artificielle-machine-learning/08-onnx-modeles-portables.md)
+- 15.9 [GPU computing avec CUDA/OpenCL](15-intelligence-artificielle-machine-learning/09-gpu-computing-cuda-opencl.md)
+- 15.10 [Déploiement de modèles IA](15-intelligence-artificielle-machine-learning/10-deploiement-modeles-ia.md)
 
-## 16. Traitement de Données et Calcul Scientifique
+## 16. [Traitement de Données et Calcul Scientifique](16-traitement-donnees-calcul-scientifique/README.md)
 
 - 16.1 NumLib - Calcul numérique
 - 16.2 TAChart pour visualisations
