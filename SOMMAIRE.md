@@ -265,18 +265,18 @@
 
 ## 16. [Traitement de Données et Calcul Scientifique](16-traitement-donnees-calcul-scientifique/README.md)
 
-- 16.1 NumLib - Calcul numérique
-- 16.2 TAChart pour visualisations
-- 16.3 Traitement du signal (DSP)
-- 16.4 Algèbre linéaire et matrices
-- 16.5 Statistiques avancées
-- 16.6 FFT et analyse spectrale
-- 16.7 Optimisation et solveurs
-- 16.8 Calcul parallèle et vectorisation
-- 16.9 Intégration avec R et Python
-- 16.10 Bibliothèques scientifiques par OS
+- 16.1 [NumLib - Calcul numérique](16-traitement-donnees-calcul-scientifique/01-numlib-calcul-numerique.md)
+- 16.2 [TAChart pour visualisations](16-traitement-donnees-calcul-scientifique/02-tachart-visualisations.md)
+- 16.3 [Traitement du signal (DSP)](16-traitement-donnees-calcul-scientifique/03-traitement-signal-dsp.md)
+- 16.4 [Algèbre linéaire et matrices](16-traitement-donnees-calcul-scientifique/04-algebre-lineaire-matrices.md)
+- 16.5 [Statistiques avancées](16-traitement-donnees-calcul-scientifique/05-statistiques-avancees.md)
+- 16.6 [FFT et analyse spectrale](16-traitement-donnees-calcul-scientifique/06-fft-analyse-spectrale.md)
+- 16.7 [Optimisation et solveurs](16-traitement-donnees-calcul-scientifique/07-optimisation-solveurs.md)
+- 16.8 [Calcul parallèle et vectorisation](16-traitement-donnees-calcul-scientifique/08-calcul-parallele-vectorisation.md)
+- 16.9 [Intégration avec R et Python](16-traitement-donnees-calcul-scientifique/09-integration-r-python.md)
+- 16.10 [Bibliothèques scientifiques par OS](16-traitement-donnees-calcul-scientifique/10-bibliotheques-scientifiques-par-os.md)
 
-## 17. Sécurité et Cryptographie
+## 17. [Sécurité et Cryptographie](17-securite-cryptographie/README.md)
 
 - 17.1 DCPCrypt et algorithmes cryptographiques
 - 17.2 TLS/SSL avec OpenSSL
