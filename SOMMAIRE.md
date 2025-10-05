@@ -234,21 +234,21 @@
 
 ## 14. [Systèmes Embarqués et IoT](14-systemes-embarques-iot/README.md)
 
-- 14.1 FreePascal pour microcontrôleurs
-- 14.2 AVR et Arduino avec FreePascal
-- 14.3 ARM Cortex-M et STM32
-- 14.4 Raspberry Pi et Linux embarqué
-- 14.5 Protocoles IoT (MQTT, CoAP, LoRaWAN)
-- 14.6 Communication série
-  - 14.6.1 Ports COM Windows
-  - 14.6.2 /dev/tty* Linux
-- 14.7 GPIO et interfaces matérielles
-- 14.8 Temps réel et RTOS
-- 14.9 Drivers et accès matériel direct
-- 14.10 Optimisation mémoire pour embarqué
-- 14.11 Edge computing
+- 14.1 [FreePascal pour microcontrôleurs](14-systemes-embarques-iot/01-freepascal-microcontroleurs.md)
+- 14.2 [AVR et Arduino avec FreePascal](14-systemes-embarques-iot/02-avr-arduino-freepascal.md)
+- 14.3 [ARM Cortex-M et STM32](14-systemes-embarques-iot/03-arm-cortex-m-stm32.md)
+- 14.4 [Raspberry Pi et Linux embarqué](14-systemes-embarques-iot/04-raspberry-pi-linux-embarque.md)
+- 14.5 [Protocoles IoT (MQTT, CoAP, LoRaWAN)](14-systemes-embarques-iot/05-protocoles-iot-mqtt-coap-lorawan.md)
+- 14.6 [Communication série](14-systemes-embarques-iot/06-communication-serie.md)
+  - 14.6.1 [Ports COM Windows](14-systemes-embarques-iot/06.1-ports-com-windows.md)
+  - 14.6.2 [/dev/tty* Linux](14-systemes-embarques-iot/06.2-dev-tty-linux.md)
+- 14.7 [GPIO et interfaces matérielles](14-systemes-embarques-iot/07-gpio-interfaces-materielles.md)
+- 14.8 [Temps réel et RTOS](14-systemes-embarques-iot/08-temps-reel-rtos.md)
+- 14.9 [Drivers et accès matériel direct](14-systemes-embarques-iot/09-drivers-acces-materiel-direct.md)
+- 14.10 [Optimisation mémoire pour embarqué](14-systemes-embarques-iot/10-optimisation-memoire-embarque.md)
+- 14.11 [Edge computing](14-systemes-embarques-iot/11-edge-computing.md)
 
-## 15. Intelligence Artificielle et Machine Learning
+## 15. [Intelligence Artificielle et Machine Learning](15-intelligence-artificielle-machine-learning/README.md)
 
 - 15.1 Bindings TensorFlow pour FreePascal
 - 15.2 Réseaux de neurones from scratch
