@@ -278,23 +278,23 @@
 
 ## 17. [Sécurité et Cryptographie](17-securite-cryptographie/README.md)
 
-- 17.1 DCPCrypt et algorithmes cryptographiques
-- 17.2 TLS/SSL avec OpenSSL
-  - 17.2.1 Configuration OpenSSL Windows
-  - 17.2.2 Configuration OpenSSL Ubuntu
-- 17.3 Authentification et OAuth 2.0
-- 17.4 JWT et tokens sécurisés
-- 17.5 Hashing et signatures numériques
-- 17.6 Stockage sécurisé de données
-  - 17.6.1 DPAPI Windows
-  - 17.6.2 Keyring Linux/GNOME
-- 17.7 Analyse de vulnérabilités
-- 17.8 Obfuscation et protection du code
-- 17.9 Sandboxing et isolation
-- 17.10 Audit et conformité GDPR
-- 17.11 SELinux/AppArmor vs Windows Defender
+- 17.1 [DCPCrypt et algorithmes cryptographiques](17-securite-cryptographie/01-dcpcrypt-algorithmes-cryptographiques.md)
+- 17.2 [TLS/SSL avec OpenSSL](17-securite-cryptographie/02-tls-ssl-openssl.md)
+  - 17.2.1 [Configuration OpenSSL Windows](17-securite-cryptographie/02.1-configuration-openssl-windows.md)
+  - 17.2.2 [Configuration OpenSSL Ubuntu](17-securite-cryptographie/02.2-configuration-openssl-ubuntu.md)
+- 17.3 [Authentification et OAuth 2.0](17-securite-cryptographie/03-authentification-oauth2.md)
+- 17.4 [JWT et tokens sécurisés](17-securite-cryptographie/04-jwt-tokens-securises.md)
+- 17.5 [Hashing et signatures numériques](17-securite-cryptographie/05-hashing-signatures-numeriques.md)
+- 17.6 [Stockage sécurisé de données](17-securite-cryptographie/06-stockage-securise-donnees.md)
+  - 17.6.1 [DPAPI Windows](17-securite-cryptographie/06.1-dpapi-windows.md)
+  - 17.6.2 [Keyring Linux/GNOME](17-securite-cryptographie/06.2-keyring-linux-gnome.md)
+- 17.7 [Analyse de vulnérabilités](17-securite-cryptographie/07-analyse-vulnerabilites.md)
+- 17.8 [Obfuscation et protection du code](17-securite-cryptographie/08-obfuscation-protection-code.md)
+- 17.9 [Sandboxing et isolation](17-securite-cryptographie/09-sandboxing-isolation.md)
+- 17.10 [Audit et conformité GDPR](17-securite-cryptographie/10-audit-conformite-gdpr.md)
+- 17.11 [SELinux/AppArmor vs Windows Defender](17-securite-cryptographie/11-selinux-apparmor-vs-windows-defender.md)
 
-## 18. Tests et Qualité du Code
+## 18. [Tests et Qualité du Code](18-tests-qualite-code/README.md)
 
 - 18.1 FPCUnit - Framework de tests unitaires
 - 18.2 Tests d'intégration automatisés
