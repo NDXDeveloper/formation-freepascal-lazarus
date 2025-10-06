@@ -296,22 +296,22 @@
 
 ## 18. [Tests et Qualité du Code](18-tests-qualite-code/README.md)
 
-- 18.1 FPCUnit - Framework de tests unitaires
-- 18.2 Tests d'intégration automatisés
-- 18.3 Mocking et injection de dépendances
-- 18.4 Couverture de code
-  - 18.4.1 Profiling Windows (DProf)
-  - 18.4.2 Profiling Linux (gprof, Valgrind)
-- 18.5 Analyse statique du code
-- 18.6 Tests de performance et benchmarking
-- 18.7 Tests de charge et stress
-- 18.8 Fuzzing et tests aléatoires
-- 18.9 CI/CD multi-plateforme
-  - 18.9.1 GitHub Actions Windows/Ubuntu
-  - 18.9.2 GitLab CI avec runners multi-OS
-- 18.10 Documentation automatique
+- 18.1 [FPCUnit - Framework de tests unitaires](18-tests-qualite-code/01-fpcunit-framework-tests-unitaires.md)
+- 18.2 [Tests d'intégration automatisés](18-tests-qualite-code/02-tests-integration-automatises.md)
+- 18.3 [Mocking et injection de dépendances](18-tests-qualite-code/03-mocking-injection-dependances.md)
+- 18.4 [Couverture de code](18-tests-qualite-code/04-couverture-code.md)
+  - 18.4.1 [Profiling Windows (DProf)](18-tests-qualite-code/04.1-profiling-windows-dprof.md)
+  - 18.4.2 [Profiling Linux (gprof, Valgrind)](18-tests-qualite-code/04.2-profiling-linux-gprof-valgrind.md)
+- 18.5 [Analyse statique du code](18-tests-qualite-code/05-analyse-statique-code.md)
+- 18.6 [Tests de performance et benchmarking](18-tests-qualite-code/06-tests-performance-benchmarking.md)
+- 18.7 [Tests de charge et stress](18-tests-qualite-code/07-tests-charge-stress.md)
+- 18.8 [Fuzzing et tests aléatoires](18-tests-qualite-code/08-fuzzing-tests-aleatoires.md)
+- 18.9 [CI/CD multi-plateforme](18-tests-qualite-code/09-ci-cd-multiplateforme.md)
+  - 18.9.1 [GitHub Actions Windows/Ubuntu](18-tests-qualite-code/09.1-github-actions-windows-ubuntu.md)
+  - 18.9.2 [GitLab CI avec runners multi-OS](18-tests-qualite-code/09.2-gitlab-ci-runners-multi-os.md)
+- 18.10 [Documentation automatique](18-tests-qualite-code/10-documentation-automatique.md)
 
-## 19. Interopérabilité et Bindings
+## 19. [Interopérabilité et Bindings](19-interoperabilite-bindings/README.md)
 
 - 19.1 Création de bibliothèques partagées
   - 19.1.1 DLL Windows et exports
