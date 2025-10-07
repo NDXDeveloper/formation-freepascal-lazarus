@@ -329,21 +329,21 @@
 
 ## 20. [Optimisation et Performance](20-optimisation-performance/README.md)
 
-- 20.1 Profiling multi-plateforme
-  - 20.1.1 Intel VTune (Windows)
-  - 20.1.2 Perf et Valgrind (Linux)
-- 20.2 Optimisation mémoire et caches
-- 20.3 SIMD et vectorisation
-- 20.4 Optimisations spécifiques CPU
-- 20.5 Structures de données optimales
-- 20.6 Algorithmes haute performance
-- 20.7 Memory pools et allocateurs custom
-- 20.8 Lazy evaluation et memoization
-- 20.9 Benchmarking systématique
-- 20.10 Optimisation pour différentes architectures
-- 20.11 Comparaison de performance Windows/Linux
+- 20.1 [Profiling multi-plateforme](20-optimisation-performance/01-profiling-multiplateforme.md)
+  - 20.1.1 [Intel VTune (Windows)](20-optimisation-performance/01.1-intel-vtune-windows.md)
+  - 20.1.2 [Perf et Valgrind (Linux)](20-optimisation-performance/01.2-perf-valgrind-linux.md)
+- 20.2 [Optimisation mémoire et caches](20-optimisation-performance/02-optimisation-memoire-caches.md)
+- 20.3 [SIMD et vectorisation](20-optimisation-performance/03-simd-vectorisation.md)
+- 20.4 [Optimisations spécifiques CPU](20-optimisation-performance/04-optimisations-specifiques-cpu.md)
+- 20.5 [Structures de données optimales](20-optimisation-performance/05-structures-donnees-optimales.md)
+- 20.6 [Algorithmes haute performance](20-optimisation-performance/06-algorithmes-haute-performance.md)
+- 20.7 [Memory pools et allocateurs custom](20-optimisation-performance/07-memory-pools-allocateurs-custom.md)
+- 20.8 [Lazy evaluation et memoization](20-optimisation-performance/08-lazy-evaluation-memoization.md)
+- 20.9 [Benchmarking systématique](20-optimisation-performance/09-benchmarking-systematique.md)
+- 20.10 [Optimisation pour différentes architectures](20-optimisation-performance/10-optimisation-differentes-architectures.md)
+- 20.11 [Comparaison de performance Windows/Linux](20-optimisation-performance/11-comparaison-performance-windows-linux.md)
 
-## 21. Architecture Logicielle Avancée
+## 21. [Architecture Logicielle Avancée](21-architecture-logicielle-avancee/README.md)
 
 - 21.1 Domain-Driven Design avec FreePascal
 - 21.2 Microservices et architectures distribuées
