@@ -313,21 +313,21 @@
 
 ## 19. [Interopérabilité et Bindings](19-interoperabilite-bindings/README.md)
 
-- 19.1 Création de bibliothèques partagées
-  - 19.1.1 DLL Windows et exports
-  - 19.1.2 Shared Objects (.so) Linux
-- 19.2 Bindings C/C++ avancés
-- 19.3 Interfaçage avec Python
-- 19.4 COM/ActiveX sous Windows
-- 19.5 D-Bus sous Linux
-- 19.6 Java Native Interface (JNI)
-- 19.7 .NET interop (Windows)
-- 19.8 Mono interop (Linux)
-- 19.9 WebAssembly et JavaScript
-- 19.10 Génération automatique de bindings
-- 19.11 FFI (Foreign Function Interface)
+- 19.1 [Création de bibliothèques partagées](19-interoperabilite-bindings/01-creation-bibliotheques-partagees.md)
+  - 19.1.1 [DLL Windows et exports](19-interoperabilite-bindings/01.1-dll-windows-exports.md)
+  - 19.1.2 [Shared Objects (.so) Linux](19-interoperabilite-bindings/01.2-shared-objects-so-linux.md)
+- 19.2 [Bindings C/C++ avancés](19-interoperabilite-bindings/02-bindings-c-cpp-avances.md)
+- 19.3 [Interfaçage avec Python](19-interoperabilite-bindings/03-interfacage-python.md)
+- 19.4 [COM/ActiveX sous Windows](19-interoperabilite-bindings/04-com-activex-windows.md)
+- 19.5 [D-Bus sous Linux](19-interoperabilite-bindings/05-dbus-linux.md)
+- 19.6 [Java Native Interface (JNI)](19-interoperabilite-bindings/06-java-native-interface-jni.md)
+- 19.7 [.NET interop (Windows)](19-interoperabilite-bindings/07-dotnet-interop-windows.md)
+- 19.8 [Mono interop (Linux)](19-interoperabilite-bindings/08-mono-interop-linux.md)
+- 19.9 [WebAssembly et JavaScript](19-interoperabilite-bindings/09-webassembly-javascript.md)
+- 19.10 [Génération automatique de bindings](19-interoperabilite-bindings/10-generation-automatique-bindings.md)
+- 19.11 [FFI (Foreign Function Interface)](19-interoperabilite-bindings/11-ffi-foreign-function-interface.md)
 
-## 20. Optimisation et Performance
+## 20. [Optimisation et Performance](20-optimisation-performance/README.md)
 
 - 20.1 Profiling multi-plateforme
   - 20.1.1 Intel VTune (Windows)
