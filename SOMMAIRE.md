@@ -359,24 +359,24 @@
 
 ## 22. [DevOps et Déploiement Multi-OS](22-devops-deploiement-multi-os/README.md)
 
-- 22.1 Conteneurisation avec Docker
-  - 22.1.1 Docker Desktop Windows
-  - 22.1.2 Docker natif Ubuntu
-- 22.2 Orchestration Kubernetes
-- 22.3 Infrastructure as Code (Terraform, Ansible)
-- 22.4 Pipelines CI/CD complets
-- 22.5 Build multi-plateforme automatisé
-- 22.6 Packaging et distribution
-  - 22.6.1 Installateurs Windows (Inno Setup, NSIS, MSI)
-  - 22.6.2 Paquets Linux (DEB, RPM, AppImage, Snap)
-- 22.7 Monitoring et métriques (Prometheus)
-- 22.8 Logging centralisé (ELK stack)
-- 22.9 Blue-Green deployments
-- 22.10 Feature flags et A/B testing
-- 22.11 Gestion de configuration
-- 22.12 Disaster recovery
+- 22.1 [Conteneurisation avec Docker](22-devops-deploiement-multi-os/01-conteneurisation-docker.md)
+  - 22.1.1 [Docker Desktop Windows](22-devops-deploiement-multi-os/01.1-docker-desktop-windows.md)
+  - 22.1.2 [Docker natif Ubuntu](22-devops-deploiement-multi-os/01.2-docker-natif-ubuntu.md)
+- 22.2 [Orchestration Kubernetes](22-devops-deploiement-multi-os/02-orchestration-kubernetes.md)
+- 22.3 [Infrastructure as Code (Terraform, Ansible)](22-devops-deploiement-multi-os/03-infrastructure-as-code-terraform-ansible.md)
+- 22.4 [Pipelines CI/CD complets](22-devops-deploiement-multi-os/04-pipelines-ci-cd-complets.md)
+- 22.5 [Build multi-plateforme automatisé](22-devops-deploiement-multi-os/05-build-multiplateforme-automatise.md)
+- 22.6 [Packaging et distribution](22-devops-deploiement-multi-os/06-packaging-distribution.md)
+  - 22.6.1 [Installateurs Windows (Inno Setup, NSIS, MSI)](22-devops-deploiement-multi-os/06.1-installateurs-windows-inno-nsis-msi.md)
+  - 22.6.2 [Paquets Linux (DEB, RPM, AppImage, Snap)](22-devops-deploiement-multi-os/06.2-paquets-linux-deb-rpm-appimage-snap.md)
+- 22.7 [Monitoring et métriques (Prometheus)](22-devops-deploiement-multi-os/07-monitoring-metriques-prometheus.md)
+- 22.8 [Logging centralisé (ELK stack)](22-devops-deploiement-multi-os/08-logging-centralise-elk-stack.md)
+- 22.9 [Blue-Green deployments](22-devops-deploiement-multi-os/09-blue-green-deployments.md)
+- 22.10 [Feature flags et A/B testing](22-devops-deploiement-multi-os/10-feature-flags-ab-testing.md)
+- 22.11 [Gestion de configuration](22-devops-deploiement-multi-os/11-gestion-configuration.md)
+- 22.12 [Disaster recovery](22-devops-deploiement-multi-os/12-disaster-recovery.md)
 
-## 23. Développement de Jeux
+## 23. [Développement de Jeux](23-developpement-jeux/README.md)
 
 - 23.1 Castle Game Engine
 - 23.2 ZenGL et frameworks 2D
