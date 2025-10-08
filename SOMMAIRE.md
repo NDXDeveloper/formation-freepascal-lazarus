@@ -345,19 +345,19 @@
 
 ## 21. [Architecture Logicielle Avancée](21-architecture-logicielle-avancee/README.md)
 
-- 21.1 Domain-Driven Design avec FreePascal
-- 21.2 Microservices et architectures distribuées
-- 21.3 Event Sourcing et CQRS
-- 21.4 Hexagonal Architecture
-- 21.5 Dependency Injection containers
-- 21.6 Plugin architectures portables
-- 21.7 Message queues et event bus
-- 21.8 Saga pattern et transactions distribuées
-- 21.9 API Gateway patterns
-- 21.10 Service mesh et observabilité
-- 21.11 Architecture cloud-native
+- 21.1 [Domain-Driven Design avec FreePascal](21-architecture-logicielle-avancee/01-domain-driven-design-freepascal.md)
+- 21.2 [Microservices et architectures distribuées](21-architecture-logicielle-avancee/02-microservices-architectures-distribuees.md)
+- 21.3 [Event Sourcing et CQRS](21-architecture-logicielle-avancee/03-event-sourcing-cqrs.md)
+- 21.4 [Hexagonal Architecture](21-architecture-logicielle-avancee/04-hexagonal-architecture.md)
+- 21.5 [Dependency Injection containers](21-architecture-logicielle-avancee/05-dependency-injection-containers.md)
+- 21.6 [Plugin architectures portables](21-architecture-logicielle-avancee/06-plugin-architectures-portables.md)
+- 21.7 [Message queues et event bus](21-architecture-logicielle-avancee/07-message-queues-event-bus.md)
+- 21.8 [Saga pattern et transactions distribuées](21-architecture-logicielle-avancee/08-saga-pattern-transactions-distribuees.md)
+- 21.9 [API Gateway patterns](21-architecture-logicielle-avancee/09-api-gateway-patterns.md)
+- 21.10 [Service mesh et observabilité](21-architecture-logicielle-avancee/10-service-mesh-observabilite.md)
+- 21.11 [Architecture cloud-native](21-architecture-logicielle-avancee/11-architecture-cloud-native.md)
 
-## 22. DevOps et Déploiement Multi-OS
+## 22. [DevOps et Déploiement Multi-OS](22-devops-deploiement-multi-os/README.md)
 
 - 22.1 Conteneurisation avec Docker
   - 22.1.1 Docker Desktop Windows
