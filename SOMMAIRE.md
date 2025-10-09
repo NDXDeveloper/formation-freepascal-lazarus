@@ -394,21 +394,21 @@
 
 ## 24. [Compilateur et Outils Avancés](24-compilateur-outils-avances/README.md)
 
-- 24.1 Architecture interne du FPC
-- 24.2 Développement de backends
-- 24.3 Optimisations du compilateur
-- 24.4 Génération de code custom
-- 24.5 Preprocesseur et macros
-- 24.6 Analyseurs syntaxiques (fcl-passrc)
-- 24.7 Outils de build personnalisés
-- 24.8 Cross-compilation avancée
-  - 24.8.1 Windows → Linux
-  - 24.8.2 Linux → Windows
-  - 24.8.3 Toolchains croisés
-- 24.9 Intégration WSL/WSL2
-- 24.10 Remote debugging cross-platform
+- 24.1 [Architecture interne du FPC](24-compilateur-outils-avances/01-architecture-interne-fpc.md)
+- 24.2 [Développement de backends](24-compilateur-outils-avances/02-developpement-backends.md)
+- 24.3 [Optimisations du compilateur](24-compilateur-outils-avances/03-optimisations-compilateur.md)
+- 24.4 [Génération de code custom](24-compilateur-outils-avances/04-generation-code-custom.md)
+- 24.5 [Preprocesseur et macros](24-compilateur-outils-avances/05-preprocesseur-macros.md)
+- 24.6 [Analyseurs syntaxiques (fcl-passrc)](24-compilateur-outils-avances/06-analyseurs-syntaxiques-fcl-passrc.md)
+- 24.7 [Outils de build personnalisés](24-compilateur-outils-avances/07-outils-build-personnalises.md)
+- 24.8 [Cross-compilation avancée](24-compilateur-outils-avances/08-cross-compilation-avancee.md)
+  - 24.8.1 [Windows → Linux](24-compilateur-outils-avances/08.1-windows-vers-linux.md)
+  - 24.8.2 [Linux → Windows](24-compilateur-outils-avances/08.2-linux-vers-windows.md)
+  - 24.8.3 [Toolchains croisés](24-compilateur-outils-avances/08.3-toolchains-croises.md)
+- 24.9 [Intégration WSL/WSL2](24-compilateur-outils-avances/09-integration-wsl-wsl2.md)
+- 24.10 [Remote debugging cross-platform](24-compilateur-outils-avances/10-remote-debugging-cross-platform.md)
 
-## 25. Projets Complexes et Études de Cas
+## 25. [Projets Complexes et Études de Cas](25-projets-complexes-etudes-cas/README.md)
 
 - 25.1 ERP complet multi-plateforme
 - 25.2 Plateforme SaaS multi-tenant
