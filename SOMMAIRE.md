@@ -410,18 +410,18 @@
 
 ## 25. [Projets Complexes et Études de Cas](25-projets-complexes-etudes-cas/README.md)
 
-- 25.1 ERP complet multi-plateforme
-- 25.2 Plateforme SaaS multi-tenant
-- 25.3 Système de trading haute fréquence
-- 25.4 IDE ou éditeur de code avancé portable
-- 25.5 Moteur de workflow/BPM
-- 25.6 Système de monitoring distribué
-- 25.7 Blockchain et smart contracts
-- 25.8 Compilateur ou interpréteur
-- 25.9 Suite bureautique portable
-- 25.10 Système de gestion hospitalière
+- 25.1 [ERP complet multi-plateforme](25-projets-complexes-etudes-cas/01-erp-complet-multiplateforme.md)
+- 25.2 [Plateforme SaaS multi-tenant](25-projets-complexes-etudes-cas/02-plateforme-saas-multi-tenant.md)
+- 25.3 [Système de trading haute fréquence](25-projets-complexes-etudes-cas/03-systeme-trading-haute-frequence.md)
+- 25.4 [IDE ou éditeur de code avancé portable](25-projets-complexes-etudes-cas/04-ide-editeur-code-avance-portable.md)
+- 25.5 [Moteur de workflow/BPM](25-projets-complexes-etudes-cas/05-moteur-workflow-bpm.md)
+- 25.6 [Système de monitoring distribué](25-projets-complexes-etudes-cas/06-systeme-monitoring-distribue.md)
+- 25.7 [Blockchain et smart contracts](25-projets-complexes-etudes-cas/07-blockchain-smart-contracts.md)
+- 25.8 [Compilateur ou interpréteur](25-projets-complexes-etudes-cas/08-compilateur-ou-interpreteur.md)
+- 25.9 [Suite bureautique portable](25-projets-complexes-etudes-cas/09-suite-bureautique-portable.md)
+- 25.10 [Système de gestion hospitalière](25-projets-complexes-etudes-cas/10-systeme-gestion-hospitaliere.md)
 
-## 26. Communauté et Écosystème
+## 26. [Communauté et Écosystème](26-communaute-ecosysteme/README.md)
 
 - 26.1 Contribution au projet FreePascal/Lazarus
 - 26.2 Création et maintenance de packages
