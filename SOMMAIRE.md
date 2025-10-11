@@ -423,16 +423,16 @@
 
 ## 26. [Communauté et Écosystème](26-communaute-ecosysteme/README.md)
 
-- 26.1 Contribution au projet FreePascal/Lazarus
-- 26.2 Création et maintenance de packages
-- 26.3 Forums et ressources communautaires
-- 26.4 Documentation et tutoriels
-- 26.5 Conférences et meetups
-- 26.6 Projets open source notables
-- 26.7 Migration depuis Delphi
-  - 26.7.1 Portage de projets Windows
-  - 26.7.2 Adaptation pour Linux
-- 26.8 Opportunités professionnelles
-- 26.9 Certification et évaluation
-- 26.10 Roadmap et futur du projet
-- 26.11 Ressources spécifiques Windows/Ubuntu
+- 26.1 [Contribution au projet FreePascal/Lazarus](26-communaute-ecosysteme/01-contribution-projet-freepascal-lazarus.md)
+- 26.2 [Création et maintenance de packages](26-communaute-ecosysteme/02-creation-maintenance-packages.md)
+- 26.3 [Forums et ressources communautaires](26-communaute-ecosysteme/03-forums-ressources-communautaires.md)
+- 26.4 [Documentation et tutoriels](26-communaute-ecosysteme/04-documentation-tutoriels.md)
+- 26.5 [Conférences et meetups](26-communaute-ecosysteme/05-conferences-meetups.md)
+- 26.6 [Projets open source notables](26-communaute-ecosysteme/06-projets-open-source-notables.md)
+- 26.7 [Migration depuis Delphi](26-communaute-ecosysteme/07-migration-depuis-delphi.md)
+  - 26.7.1 [Portage de projets Windows](26-communaute-ecosysteme/07.1-portage-projets-windows.md)
+  - 26.7.2 [Adaptation pour Linux](26-communaute-ecosysteme/07.2-adaptation-pour-linux.md)
+- 26.8 [Opportunités professionnelles](26-communaute-ecosysteme/08-opportunites-professionnelles.md)
+- 26.9 [Certification et évaluation](26-communaute-ecosysteme/09-certification-evaluation.md)
+- 26.10 [Roadmap et futur du projet](26-communaute-ecosysteme/10-roadmap-futur-projet.md)
+- 26.11 [Ressources spécifiques Windows/Ubuntu](26-communaute-ecosysteme/11-ressources-specifiques-windows-ubuntu.md)
